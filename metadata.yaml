@@ -1,0 +1,25 @@
+_repo: Michael-Field_68213
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sturgeon, Mary C.
+    gutenberg_agent_id: '41490'
+    url: http://www.gutenberg.org/2009/agents/41490
+description: ''
+gutenberg_issued: '2022-05-31'
+identifiers:
+  gutenberg: '68213'
+language: en
+pgterms:marc905: 20190830052015sturgeon
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United Kingdom :George G. Harrap & Co.,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Michael Field
+url: http://www.gutenberg.org/ebooks/68213
